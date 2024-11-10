@@ -352,14 +352,16 @@ article .icon {
 }
 
 .color-container {
+    width: 50%;
+    height: 50%;
     border-color: rgb(163,163,163);
     background: rgb(250, 250, 250);
 }
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 50%;
+    height: 50%;
 }
 
 .project-title {
